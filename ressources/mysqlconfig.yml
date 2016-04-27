@@ -1,0 +1,7 @@
+## MYSQL Config settings
+---
+ServerIP: '127.0.0.1'
+Username: 'root'
+Password: ''
+Database: ''
+...
