@@ -14,4 +14,5 @@ JS & AJAX
 
 _________________________________________________________________________________________________________________________
 
->>>>>>> origin/master
+PHP getrennt vom HTML
+Jede seite sollte eine art modul sein das man  per db ein und auschalten kann
