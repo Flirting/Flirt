@@ -1,1 +1,3 @@
 HIer habe ich einmal einpaar gute Ideen
+
+Wichtig Wäre eine trennung von php und html  
