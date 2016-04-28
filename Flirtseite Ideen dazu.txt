@@ -42,5 +42,7 @@ Desgin sollte eine ca 4 bis 10 farben haben  inprinzip  eine farbtabelle anlegen
     - Mitgliederliste
     - Usersuche
     - Forum
-    -  
+    - Newsticker 
+    
+Changelog für admin und für User sichtbar (Nur bestimmte Text sichtbar)
 
