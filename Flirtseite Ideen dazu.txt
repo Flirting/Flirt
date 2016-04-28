@@ -15,6 +15,13 @@ JS & AJAX
 _________________________________________________________________________________________________________________________
 
 PHP getrennt vom HTML
+
+Klassen für ( DB verbindung, Auth Rollen, )
+
 Jede seite sollte eine art modul sein das man  per db ein und auschalten kann
 
 Auth Rollen bsp ( Admin, Mod, GeprüfUser, User , VIP , Nicht aktiviert User , Gesperrter )
+
+User müssen sich per email aktivieren und per foto code als echt bestätigen.
+
+Kostenlos sollte die seite sein und keine fremd werbung enthalten.
