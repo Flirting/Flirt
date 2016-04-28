@@ -25,3 +25,22 @@ Auth Rollen bsp ( Admin, Mod, GeprüfUser, User , VIP , Nicht aktiviert User , G
 User müssen sich per email aktivieren und per foto code als echt bestätigen.
 
 Kostenlos sollte die seite sein und keine fremd werbung enthalten.
+
+Desgin sollte eine ca 4 bis 10 farben haben  inprinzip  eine farbtabelle anlegen.
+
+  Punktesystem für User
+    - KOstenlos Punkte sammeln per onlinetime
+    - Oder Per Nachrichten chat  oder gutes benehmen.
+    - punkte verlust bei bestrafung
+
+  Seiten Aufbau als vorschlag   
+    - UserProfil  =sichtbar(Userdaten, Galarie, Gästebuch, Punkte)
+    - PN system
+    - Chat mit räumen 
+    - Gästbuch
+    - Punkte Übersicht
+    - Mitgliederliste
+    - Usersuche
+    - Forum
+    -  
+
