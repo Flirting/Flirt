@@ -27,6 +27,9 @@ User müssen sich per email aktivieren und per foto code als echt bestätigen.
 Kostenlos sollte die seite sein und keine fremd werbung enthalten.
 
 Desgin sollte eine ca 4 bis 10 farben haben  inprinzip  eine farbtabelle anlegen.
+Design sollte in 2 ausführungen exsitieren etvl für abend und einmal für tag bzw  vlt wäre  es sinnvoll dem user selber ein desgin erstellen zulassen  per css datei die man ein läd oder etvl eine grafische oberfläche.
+
+ Algorithmus  einbinden für  etvl filterung von Schimpfwörtern oder anstößigewörter
 
   Punktesystem für User
     - KOstenlos Punkte sammeln per onlinetime
@@ -42,7 +45,8 @@ Desgin sollte eine ca 4 bis 10 farben haben  inprinzip  eine farbtabelle anlegen
     - Mitgliederliste
     - Usersuche
     - Forum
-    - Newsticker 
+    - Newsticker
     
 Changelog für admin und für User sichtbar (Nur bestimmte Text sichtbar)
+
 
